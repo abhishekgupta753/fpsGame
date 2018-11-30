@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec07ae177ce21a64f853ebbfd87e017e
+timeCreated: 1488827728
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _enemyPrefab: {instanceID: 0}
+  - _IguanaPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
